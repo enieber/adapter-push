@@ -1,0 +1,13 @@
+{
+    "name": "root/app",
+    "authors": [
+        {
+            "name": "Enieber Cunha",
+            "email": "eniebercunha@gmail.com"
+        }
+    ],
+    "require": {
+        "rmccue/requests": ">=1.0"
+    }
+}
+
